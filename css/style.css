@@ -38,7 +38,7 @@ body {
 
 .shutter-height {
     height: 600px;
-    background-image: url("../../../images/store.jpg");
+    background-image: url("../images/store.jpg");
     background-size: cover;
     color: white;
     font-size: 1.4em;
